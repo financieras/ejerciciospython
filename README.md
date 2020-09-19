@@ -1,2 +1,3 @@
 # ejerciciospython
-Ejercicios de Python
+Ejercicios de **Python**
+Respuestas a ejercicios para aprender a programar en Python
